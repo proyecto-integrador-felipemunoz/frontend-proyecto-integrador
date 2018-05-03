@@ -1,0 +1,52 @@
+{
+  "aaData": [
+    {
+      "id": "1",
+      "Curso": "Calculo Diferencial",
+      "Total Horas Curso": "80",
+      "Fecha Inicio": "01-02-2018",
+      "Fecha Fin": "15-06-2018",
+      "Estado": "Activo"
+    },
+    {
+      "id": "2",
+      "Curso": "Calculo Integral",
+      "Total Horas Curso": "72",
+      "Fecha Inicio": "01-02-2018",
+      "Fecha Fin": "15-06-2018",
+      "Estado": "Activo"
+    },
+        {
+      "id": "3",
+      "Curso": "Geometria Vectorial",
+      "Total Horas Curso": "90",
+      "Fecha Inicio": "01-02-2018",
+      "Fecha Fin": "15-06-2018",
+      "Estado": "Activo"
+    },
+        {
+      "id": "4",
+      "Curso": "Fisica Mecanica",
+      "Total Horas Curso": "80",
+      "Fecha Inicio": "01-02-2018",
+      "Fecha Fin": "15-06-2018",
+      "Estado": "Activo"
+    },
+        {
+      "id": "5",
+      "Curso": "Fisica de Campos",
+      "Total Horas Curso": "84",
+      "Fecha Inicio": "01-02-2018",
+      "Fecha Fin": "15-06-2018",
+      "Estado": "Activo"
+    },
+        {
+      "id": "6",
+      "Curso": "Matematicas discretas",
+      "Total Horas Curso": "60",
+      "Fecha Inicio": "01-02-2018",
+      "Fecha Fin": "15-06-2018",
+      "Estado": "Activo"
+    }
+  ]
+}
